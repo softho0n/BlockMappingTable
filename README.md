@@ -2,7 +2,7 @@
 Implementation Block Mapping Table Scheme in FTL (Flash Translation Layer)  
 
 ## What is FTL?
-Refer it: https://tech.kakao.com/2016/07/13/coding-for-ssd-part-3/  
+Refer it: https://tech.kakao.com/2016/07/15/coding-for-ssd-part-3/
 
 ## Configuration
 You can also try to implementation `flt_blockmap` using `fltsim.tar` file. This is init tar file. Try it!
